@@ -2,6 +2,12 @@
 
 The Story Links addon can be used to create links between stories. This addon works with both [React Storybook](https://github.com/kadirahq/react-storybook) and [React Native Storybook](https://github.com/kadirahq/react-native-storybook) (included by default).
 
+--- 
+
+**This repo has been deprecated because it's now included in https://github.com/storybooks/storybook**
+
+---
+
 ## Getting Started
 
 You can use this addon without installing it.
